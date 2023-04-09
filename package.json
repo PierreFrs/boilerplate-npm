@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Pierre Fraisse",
+	"description": "An exercise project to learn back end development and APIs.",
+	"keywords": ["project", "backend", "learning", "freecodecamp", "local"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
