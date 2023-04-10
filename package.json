@@ -3,6 +3,7 @@
 	"author": "Pierre Fraisse",
 	"description": "An exercise project to learn back end development and APIs.",
 	"license": "MIT",
+	"version": "1.0",
 	"keywords": ["project", "backend", "learning", "freecodecamp", "local"],
 	"dependencies": {
 		"express": "^4.14.0"
